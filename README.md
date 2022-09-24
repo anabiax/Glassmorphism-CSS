@@ -2,7 +2,8 @@
 
 Efeito vidro com CSS.
 
- file:///home/anasantos/Pictures/Capturas%20de%20tela/Captura%20de%20tela%20de%202022-09-24%2011-43-29.png
+![glassmorphismcss](https://user-images.githubusercontent.com/105956403/192104242-ead8491d-7451-4e80-bf2f-705f89888722.png)
+
 
 ## Status:
 
